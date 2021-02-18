@@ -1,0 +1,31 @@
+# -- hidden stuff
+.Rhistory
+.DS_Store
+.dropbox
+
+# -- folders
+data/
+computed_objects/
+etl/
+backups/
+snapshots/
+
+# -- writeup stuff
+writeup/parameters.tex
+writeup/*pdf
+writeup/package_list*
+writeup/plots/*pdf
+writeup/plots/*svg
+writeup/tables/*tex
+
+# -- latex stuff
+*unused*
+*aux
+*bbl
+*ttt
+*blg
+*log
+*out
+*junk*
+*synctex.gz*
+
